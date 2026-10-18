@@ -198,4 +198,4 @@ x^2 + \sqrt{x} = C
 9
 ```
 
-[Решение](./сow_in_stall_E.cpp)
+[Решение](./cow_in_stall_E.cpp)
