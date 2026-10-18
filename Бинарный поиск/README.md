@@ -36,5 +36,5 @@ YES
 NO
 ```
 
-[Решение](./Binary_search_A.cpp)
+[Решение](./Binary_search_A.py)
 
